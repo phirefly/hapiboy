@@ -1,0 +1,12 @@
+{
+  "name": "hapiboy",
+  "author": "Raphy Villas",
+  "description": "quick and dirty responses in development",
+  "version": "0.0.1",
+  "dependencies": {
+    "connect": "1.8.x",
+    "express": "3.x"
+  },
+  "engine": "0.6.x",
+  "main": "server.js"
+}
